@@ -107,5 +107,7 @@
       }
     }
   },
-  "defaultProject": "expenses-tracker"
+  "cli": {
+    "analytics": "58543c65-7ce8-43a7-be9c-d412016741d4"
+  }
 }
